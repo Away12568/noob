@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 import Header from './components/Header/header'
-import Hero from './components/hero/hero'
+import Hero from './components/Hero/Hero'
 import Footer from './components/Footer/Footer'
 
 
